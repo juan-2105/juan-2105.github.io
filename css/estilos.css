@@ -24,7 +24,7 @@ h1{
   line-height: 1.5;
   font-size: 40px;
   letter-spacing: -.2px;
-  color: #ffffff;
+  color: black;
   margin: 0;
 }
 
@@ -40,8 +40,8 @@ h2 {
   margin-bottom: 40px;
 }
 .hero {
-  height: 300px;
-  background-color: #1b2127;
+  height: 350px;
+  background-color: lightgray;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -51,8 +51,9 @@ h2 {
   text-decoration: underline;
   
 }
-.hero image {
+.hero-image {
   object-fit: cover;
+  border-radius: 20px;
 }
 
 
@@ -100,8 +101,8 @@ h2 {
   width: 500px;
 }
 .header {
-  background-color: #1b2127;
-  color:white;
+  background-color:#026fff ;
+  color:black;
   display: flex;
   height: 70px;
   align-items: center;
