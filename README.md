@@ -14,3 +14,17 @@ aca podemos ver :
 
 
 espero que les guste.
+
+
+Hello everyone, this is a portfolio i created for praticing what i learned in Git Course and also in web development course.
+
+
+Here we can see:
+* Header 
+* Hero
+* Project Section
+* XP Section
+* Contact Section
+* Footer
+
+Enjoy!!!
