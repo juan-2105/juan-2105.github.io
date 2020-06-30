@@ -100,8 +100,8 @@ h2 {
   width: 500px;
 }
 .header {
-  background-color: #026fff;
-  color: black;
+  background-color: #1b2127;
+  color: white;
   display: flex;
   height: 70px;
   align-items: center;
@@ -224,7 +224,7 @@ figure {
 }
 
 .contact {
-  background-color: #056fff;
+  background-color: #1b2127;
   color: white;
   height: 150px;
   display: flex;
