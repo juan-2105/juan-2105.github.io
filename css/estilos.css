@@ -44,7 +44,7 @@ h2 {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
 }
 .logo {
   text-indent: unset;
@@ -52,7 +52,7 @@ h2 {
 }
 .hero-image {
   object-fit: cover;
-  border-radius: 20px;
+  /* border-radius: 20px;/ */
 }
 
 .project {
